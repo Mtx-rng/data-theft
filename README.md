@@ -30,13 +30,13 @@ Para utilizar esta ferramenta, você precisará:
 2. Dê permissão de execução ao script principal:
 
    ```bash
-   chmod +x nome_do_script.sh
+   chmod +x Virus.sh
    ```
 
 3. Execute o script com:
 
    ```bash
-   ./nome_do_script.sh
+   ./Virus.sh
    ```
 
 4. Personalize os parâmetros ou opções conforme necessário.
