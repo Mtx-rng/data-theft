@@ -6,7 +6,6 @@ Este repositório contém uma ferramenta completamente escrita em **Shell Script
 
 ## Características
 
-- **Automação de Processos**: Realiza tarefas repetitivas de forma automatizada.
 - **Fácil Integração**: Pode ser facilmente integrada em outros scripts ou pipelines.
 - **Portabilidade**: Por ser escrita em Shell Script, pode ser executada em qualquer sistema baseado em Unix/Linux sem dependências adicionais.
 - **Desempenho Rápido**: Focada em eficiência e velocidade.
