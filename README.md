@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém uma ferramenta completamente escrita em **Shell Script** destinada à automação de tarefas relacionadas à extração e manipulação de dados. A ferramenta foi projetada para oferecer simplicidade e eficiência, aproveitando o poder da linha de comando.
+Este repositório contém uma ferramenta destinada à automação de tarefas relacionadas à extração e manipulação de dados. A ferramenta foi projetada para oferecer simplicidade e eficiência, aproveitando o poder da linha de comando.
 
 ## Características
 
